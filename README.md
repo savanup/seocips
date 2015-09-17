@@ -1,0 +1,2 @@
+# seocips
+script
