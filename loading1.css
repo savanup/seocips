@@ -1,0 +1,5 @@
+#loadingHalaman {
+background:url(https://lh5.googleusercontent.com/-FjPBmaz4eZ0/VHPOQKFFodI/AAAAAAAAGA4/A64qYQ7YaMs/s1600/dark-loading.gif) no-repeat center;
+background-color:rgba(0, 0, 0, 0.32);
+width:100%;height:100%;
+position: fixed; left: 0px; top:0px; z-index: +100000;
